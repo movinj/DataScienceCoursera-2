@@ -1,4 +1,0 @@
-DataScienceCoursera
-===================
-
-Test repository
