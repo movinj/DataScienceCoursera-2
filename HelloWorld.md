@@ -1,5 +1,2 @@
-## Data Science Specialization 
+## This is a mark down file
 
-* Uses R 
-* Nine courses 
-* Goes from raw data to data products
